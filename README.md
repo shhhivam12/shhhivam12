@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7F5AF0&height=230&section=header&text=Shivam%20Mahendru&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%208x%20Hackathon%20Winner%20%E2%80%A2%20Builder%20of%20Voice%20%26%20Agentic%20AI&descAlignY=56&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:7F5AF0&height=230&section=header&text=Shivam%20Mahendru&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%208x%20Hackathon%20Winner%20%E2%80%A2%20Builder%20of%20Voice%20%26amp%3B%20Agentic%20AI&descAlignY=56&descSize=17" width="100%"/>
 </p>
 
 <p align="center">
